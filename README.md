@@ -129,6 +129,7 @@ Test card for the simulated payment: `4242 4242 4242 4242`, any future expiry da
 
 ## Project history
 
+The original version is preserved in the [`original-2025`](https://github.com/AminaaMah/hotel-reservation-system/tree/original-2025) branch.
 The first version (2025) was a .NET Framework 3.5 application with a Microsoft Access database accessed through an ODBC data source. In 2026 it was rebuilt to:
 
 - move to .NET 8 and SQLite, so the project runs without any manual database setup
